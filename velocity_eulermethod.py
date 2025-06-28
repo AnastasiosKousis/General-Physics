@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
 # Constants
 mass = 1  # kg
 area = 0.005  # m^2
